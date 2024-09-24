@@ -1,8 +1,8 @@
-# Home Assistant Custom Integration: Jebao Aquarium Pumps
+# Home Assistant Custom Integration: Aquaforte pond pumps
 
 ![Logo](jebao-m-series-pump-controller.png)
 
-This custom integration for Home Assistant allows users to control and monitor certain models of Wi-Fi enabled Jebao Aquarium Wavemakers/Pumps. Currently tested with the M series devices (with white and purple controller), though in theory it should be possible to get working with any device that supports Wi-Fi and makes use of the "Jebao Aqua" app for control.
+This custom integration for Home Assistant allows users to control and monitor certain models of Wi-Fi enabled Aquaforte Pumps. Currently tested with the Vario series devices , though in theory it should be possible to get working with any device that supports Wi-Fi.
 
 The integration currently polls devices via the LAN for status updates but uses the Gizwits Cloud API for remote control.
 
